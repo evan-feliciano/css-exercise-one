@@ -18,6 +18,7 @@ section {
 h1 {
   font-family sans-serif;
   font-size: 2em;
+	background-color: #yellow;	
 }
 
 .example, h3 {
