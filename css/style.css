@@ -31,13 +31,13 @@ h3 {
   color:#green;
 }
 
-.div, h3 {
+.element, h3 {
   background-color: #green;
   height: 100px;
   margin: 10px 0;
   width: 100%;
 	}
 
-element style {
+.element {
 	background-color:#green;
 }
